@@ -91,6 +91,6 @@ Este projeto é de uso acadêmico e foi desenvolvido exclusivamente para fins ed
 **Universidade Federal do Amazonas (UFAM)**  
 **Instituto de Computação (IComp)**
 
-*Manaus, AM -- 2025*
+*Manaus, AM - 2025*
 
 
